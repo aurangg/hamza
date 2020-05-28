@@ -1,0 +1,88 @@
+{
+  "portfolios": [
+    {
+      "id": 1,
+      "name": "Konsa Career",
+      "description": "FYP",
+      "github": "https://aurangg.github.io/fyp",
+      "website": "https://knsacareer.herokuapp.com"
+    },
+    {
+      "id": 2,
+      "name": "Ozeety",
+      "description": "Money App",
+      "github": "",
+      "website": "https://ozeety.com"
+    },
+    {
+      "id": 3,
+      "name": "Koareer",
+      "description": "F",
+      "github": "https://aurangg.github.io/fyp",
+      "website": "https://knsacareer.herokuapp.com"
+    },
+    {
+      "id": 4,
+      "name": "a Career",
+      "description": "FP",
+      "github": "https://aurangg.github.io/fyp",
+      "website": "https://knsacareer.herokuapp.com"
+    },
+    {
+      "name": "Aurang Portfolio",
+      "description": "Portfolio Website For Aurangzeb",
+      "github": "https://aurangg.github.io/classic",
+      "website": "https://aurangg.com",
+      "id": 6
+    },
+    {
+      "name": "Covid19",
+      "description": "Covid 19 App",
+      "github": "https://aurangg.github.io/covid19",
+      "website": "https://aurangg.com",
+      "id": 7
+    }
+  ],
+  "emails": [
+    {
+      "id": 1,
+      "email": "aurangzebbbk@gmail.com",
+      "message": "Hello Ji"
+    },
+    {
+      "email": "aurangzebkhan@jinnbye.com",
+      "message": "Hello from the other side",
+      "id": 2
+    }
+  ],
+  "basic": [
+    {
+      "name": "Ameer Hamza",
+      "education": "Software Engineering",
+      "institute": "Punjab Universtiy - College of Information & Technology",
+      "batch": "2015-2019"
+    }
+  ],
+  "interests": [
+    {
+      "id": 1,
+      "interestName": "Amazon Web Services"
+    },
+    {
+      "id": 2,
+      "interestName": "Laravel"
+    },
+    {
+      "id": 3,
+      "interestName": "Python Django Framework"
+    },
+    {
+      "interestName": "Google Cloud Platform",
+      "id": 4
+    },
+    {
+      "interestName": "UI/UX",
+      "id": 5
+    }
+  ]
+}
